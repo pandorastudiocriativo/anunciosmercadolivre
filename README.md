@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Anúncios que Vendem no Mercado Livre | Pandora Studio</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -106,11 +106,11 @@
   }
 
   h1 {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 10vw;
-    font-weight: 400;
-    line-height: 0.95;
-    letter-spacing: 2px;
+    font-family: 'Playfair Display', serif;
+    font-size: 9vw;
+    font-weight: 800;
+    line-height: 1.05;
+    letter-spacing: -2px;
     margin-bottom: 28px;
     max-width: 900px;
     margin-left: auto;
@@ -198,7 +198,7 @@
   }
 
   h2 {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 5.5vw;
     font-weight: 800;
     line-height: 1.1;
@@ -304,7 +304,7 @@
     font-weight: 600;
   }
   .big-result {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 5.5vw;
     font-weight: 800;
     color: var(--yellow);
