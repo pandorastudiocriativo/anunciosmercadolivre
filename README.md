@@ -107,12 +107,12 @@
 
   h1 {
     font-family: 'Playfair Display', serif;
-    font-size: 9vw;
+    font-size: 120px;
     font-weight: 800;
     line-height: 1.05;
     letter-spacing: -2px;
     margin-bottom: 28px;
-    max-width: 900px;
+    max-width: 1100px;
     margin-left: auto;
     margin-right: auto;
     border: none;
@@ -199,7 +199,7 @@
 
   h2 {
     font-family: 'Playfair Display', serif;
-    font-size: 5.5vw;
+    font-size: 72px;
     font-weight: 800;
     line-height: 1.1;
     letter-spacing: -1.5px;
@@ -305,7 +305,7 @@
   }
   .big-result {
     font-family: 'Playfair Display', serif;
-    font-size: 5.5vw;
+    font-size: 72px;
     font-weight: 800;
     color: var(--yellow);
     letter-spacing: -2px;
